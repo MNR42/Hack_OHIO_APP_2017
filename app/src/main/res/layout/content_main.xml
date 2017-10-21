@@ -8,5 +8,4 @@
     tools:context="com.example.mnrye.hack_ohio_app_2017.MainActivity"
     tools:showIn="@layout/activity_main">
 
-
 </android.support.constraint.ConstraintLayout>
