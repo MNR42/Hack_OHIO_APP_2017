@@ -13,6 +13,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import static java.sql.DriverManager.println;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
